@@ -1,7 +1,7 @@
 {
   "name": "memory-streams",
   "description": "Simple implmentation of Stream.Readable and Stream.Writable holding the data in memory.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Paul Jackson (http://paulj.me/)",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
     "test": "test"
   },
   "dependencies": {
+    "readable-stream": "~1.0.2"
   },
   "devDependencies": {
     "should": "~1.2.2"
