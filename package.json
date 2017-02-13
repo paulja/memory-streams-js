@@ -9,6 +9,7 @@
   },
   "homepage": "https://github.com/paulja/memory-streams-js",
   "main": "index.js",
+  "typings": "index.d.ts",
   "directories": {
     "test": "test"
   },
