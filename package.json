@@ -1,8 +1,8 @@
 {
   "name": "memory-streams",
   "description": "Simple implmentation of Stream.Readable and Stream.Writable holding the data in memory.",
-  "version": "0.1.1",
-  "author": "Paul Jackson (http://paulj.me/)",
+  "version": "0.1.2",
+  "author": "Paul Jackson (http://jaaco.uk/)",
   "repository": {
     "type": "git",
     "url": "git@github.com:paulja/memory-streams-js.git"
