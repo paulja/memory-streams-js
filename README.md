@@ -1,6 +1,9 @@
 # Memory Streams JS
 _Memory Streams JS_ is a light-weight implementation of the `Stream.Readable` and `Stream.Writable` abstract classes from node.js. You can use the classes provided to store the result of reading and writing streams in memory. This can be useful when you need pipe your test output for later inspection or to stream files from the web into memory without have to use temporary files on disk.
 
+Forked from https://github.com/paulja/memory-streams-js to be modified
+so that `.end()` calls emit a `finish` event.
+
 ## Installation
 Install with:
 
